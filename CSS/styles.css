@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: rgb(43, 41, 46);
+}
+
+a.nav-link:hover {
+    color: white;
+}
+
+footer {
+    background-color: #1d3a4a;
+}
+
+.form-control {
+    resize: none;
+}
+
+#ba {
+    filter: brightness(0.5);
+}
